@@ -97,16 +97,16 @@ function create_config( )
     info_text = [[》permag.ir v3
 
 🔰Our channel :
-》@permag_bots《
+》@fghv6_bots《
 
 🔰Our channel2 :
-》@permag_ir《
+》@Team58《
 
 🔰Our channel3 :
-》@permag《
+》@Team58《
 
 🔰Our website :
-》http://permag.ir
+》http://majidpor58.webs.com
 ]],
   }
   serialize_to_file(config, './data/config.lua')
@@ -894,7 +894,7 @@ elseif msg.content_.ID == "MessageGame" then
   end
 
 end
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag
+-- http://majidpo58.webs.com
+-- @Team58
+-- @fghv6_bots
+-- @Team58
