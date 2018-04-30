@@ -1,8 +1,8 @@
 -- کد های پایین در ربات نشان داده نمیشوند
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag
+-- http://majidpor58.webs.com
+-- @batsaz2
+-- @fghv6_bots
+-- @Team58
 
 local string = require("string")
 local base = _G
@@ -239,9 +239,3 @@ function Url.build_path(parsed, unsafe)
 end
 
 return Url
-
--- کد های پایین در ربات نشان داده نمیشوند
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag
